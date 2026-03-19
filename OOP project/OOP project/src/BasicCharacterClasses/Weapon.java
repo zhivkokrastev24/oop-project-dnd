@@ -1,3 +1,5 @@
+package BasicCharacterClasses;
+
 public class Weapon {
     private String name;
     private int bonusPercent;

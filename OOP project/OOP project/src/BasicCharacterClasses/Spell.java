@@ -1,3 +1,5 @@
+package BasicCharacterClasses;
+
 public class Spell {
     private String name;
     private int bonusPercent;

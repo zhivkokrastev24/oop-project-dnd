@@ -1,3 +1,5 @@
+package BasicCharacterClasses;
+
 public class Armor {
     private String name;
     private int protectionPercent;

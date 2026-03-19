@@ -1,3 +1,5 @@
+package BasicCharacterClasses;
+
 public class Hero {
     private Race race;
     private int strength;
@@ -15,7 +17,7 @@ public class Hero {
         this.health = health;
         this.level = level;
         this.weapon = new Weapon("Default sword", 20);
-        this.armor = new Armor("No Armor", 0);
+        this.armor = new Armor("No BasicCharacterClasses.Armor", 0);
         this.spell = new Spell("Fireball", 20, 10);
     }
 }
